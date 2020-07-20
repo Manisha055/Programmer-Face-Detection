@@ -14,7 +14,9 @@ https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_front
 
 
 RUN THE FILE🤙
+
 👇
+
 pip install python-opencv
 
 OR
